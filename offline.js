@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1673060096,
+	"version": 1673060591,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,7 +24,6 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png",
-		"Photon-Javascript_SDK.min.js"
+		"loading-logo.png"
 	]
 }
