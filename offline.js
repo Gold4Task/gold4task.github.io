@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1673123764,
+	"version": 1673440709,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,9 @@
 		"images/pic1-sheet0.png",
 		"images/pic2-sheet0.png",
 		"images/pic3-sheet0.png",
+		"images/kazik_logo-sheet0.png",
+		"images/golda_mines-sheet0.png",
+		"images/fugas_mines-sheet0.png",
 		"media/sound1.m4a",
 		"media/sound1.ogg",
 		"media/sound2.m4a",
