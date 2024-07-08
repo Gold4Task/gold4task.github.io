@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1720272624,
+	"version": 1720465369,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -20,6 +20,7 @@
 		"images/fugas_mines-sheet0.png",
 		"images/tl_youtube4-sheet0.png",
 		"images/tl_youtube5-sheet0.png",
+		"images/tl_youtube6-sheet0.png",
 		"media/sound1.m4a",
 		"media/sound1.ogg",
 		"media/sound2.m4a",
